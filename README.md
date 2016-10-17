@@ -5,3 +5,4 @@
 ## 目录
 
 [Vue （0.10）中 vm 的实例化过程](https://github.com/zsjie/blog/issues/1)
+[javascript 正则零散笔记](https://github.com/zsjie/blog/issues/2)
