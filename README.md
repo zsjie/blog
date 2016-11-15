@@ -5,6 +5,6 @@
 ## 目录
 
 - [Vue （0.10）中 vm 的实例化过程](https://github.com/zsjie/blog/issues/1)
-- [javascript 正则零散笔记](https://github.com/zsjie/blog/issues/2)
+- [javascript 正则笔记](https://github.com/zsjie/blog/issues/2)
 - [使用 CSS 实现自适应的正方形](https://github.com/zsjie/blog/issues/3)
 - [前端性能优化（一）：常见优化方向](https://github.com/zsjie/blog/issues/4)
