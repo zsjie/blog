@@ -1,8 +1,8 @@
-ck（一）：基础
+使用 webpack（一）：基础
 
 使用 webpack 来对项目进行打包，有利于更好地组织代码，也有利于开发过程中的调试。不过个人感觉 webpack 配置起来还是比较麻烦的，所以我写下这篇文档记录自己的需求，和如何使用 webpack 来满足需求，方便自己回顾。
 
-本文基于 webpack@2.x 版本。
+本文基于 [webpack@2.x](https://webpack.github.io) 版本。
 
 ## 基础
 
