@@ -10,5 +10,5 @@
 - [前端性能优化（一）：常见优化方向](https://github.com/zsjie/blog/issues/4)
 - [数组方法笔记](https://github.com/zsjie/blog/issues/5)
 - [使用 webpack（一）：基础](https://github.com/zsjie/blog/issues/6)
-- [一个简单的 cookie 库](https://github.com/zsjie/blog/issues/7)
+- [一个完整支持unicode的cookie读取/写入器](https://github.com/zsjie/blog/issues/7)
 - [vscode 配置](https://github.com/zsjie/blog/issues/8)
