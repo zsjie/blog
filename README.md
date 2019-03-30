@@ -12,3 +12,4 @@
 - [使用 webpack（一）：基础](https://github.com/zsjie/blog/issues/6)
 - [一个完整支持unicode的cookie读取/写入器](https://github.com/zsjie/blog/issues/7)
 - [vscode 配置](https://github.com/zsjie/blog/issues/8)
+- [Linux 上查看磁盘空间的命令](https://github.com/zsjie/blog/issues/10)
